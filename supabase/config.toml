@@ -1,1 +1,4 @@
 project_id = "mqigfsyobsxksiwzxrnw"
+
+[functions.fetch-indian-stocks]
+verify_jwt = false
